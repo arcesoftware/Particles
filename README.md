@@ -6,8 +6,7 @@ A high-performance particle interaction simulation written in Go. By defining si
 
 ### 🖼️ Simulation Preview
 
-![Yeast Simulation Screenshot]([https://github.com/arcesoftware/Particles/blob/main/Screenshot%202026-02-25%20134801.png])
-
+![Yeast Simulation Screenshot](https://raw.githubusercontent.com/arcesoftware/Particles/main/Screenshot%202026-02-25%20134801.png)
 ---
 
 ## 🔬 How it Works
